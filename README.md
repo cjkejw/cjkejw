@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - **[School Picker](https://github.com/cjkejw/SC2006_T30_Code_New)** 🎓  
     React TypeScript frontend, ASP.NET backend, PostgreSQL database.  
 - **[FOMS – Food Ordering System](https://github.com/cjkejw/SC2002_FDAE_Grp6)** 🍔  
-    Java-based ordering system, OOP design, admin & staff management.
+    Java-based ordering and management system, OOP design.
 
 🔧 **Tech:** Python, TypeScript, Java, Angular, React
 
