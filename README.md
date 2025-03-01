@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱 Projects
-- **[aWARE – Collision Avoidance](https://github.com/cjkejw/2025_makeathon_T27)** 🏆  
+- **[FormFit – AI Gym Pose Tracker](https://github.com/cjkejw/Team-ALT)** 🏋‍♀  
+    Real-time posture correction and tailored reminders using AI-powered pose estimation.
+- **[aWARE – AI Collision Avoidance](https://github.com/cjkejw/2025_makeathon_T27)** 🏆  
     YOLOv8 human detection, motion tracking, Arduino-based real-time alerts.  
 - **[School Picker](https://github.com/cjkejw/SC2006_T30_Code_New)** 🎓  
     React TypeScript frontend, ASP.NET backend, PostgreSQL database.  
