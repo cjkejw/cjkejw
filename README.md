@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     Real-time posture correction and tailored reminders using AI-powered pose estimation.
 - **[aWARE – AI Collision Avoidance](https://github.com/cjkejw/2025_makeathon_T27)** 🏆  
     YOLOv8 human detection, motion tracking, Arduino-based real-time alerts.  
-- **[School Picker](https://github.com/cjkejw/SC2006_T30_Code_New)** 🎓  
+- **[School Picker](https://github.com/cjkejw/SC2006-School-Picker)** 🎓  
     React TypeScript frontend, ASP.NET backend, PostgreSQL database.  
 - **[FOMS – Food Ordering System](https://github.com/cjkejw/SC2002_FDAE_Grp6)** 🍔  
     Java-based ordering and management system, OOP design.
