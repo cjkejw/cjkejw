@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - **[FormFit – AI Gym Pose Tracker](https://github.com/cjkejw/Team-ALT)** 🏋‍♀  
   Real-time posture correction and tailored reminders using AI-powered pose estimation.
 
-  - **[IQ Booster]([#](https://github.com/hacknroll24))** 🧠  
+- **[IQ Booster]([#](https://github.com/hacknroll24))** 🧠  
   Deployed. Play at [IQ Booster]([#](https://spam2k24-main-nine.vercel.app/))  
   All art belong to me. Ps: Go multiplayer mmode to unlock more picts!
 
