@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱 Projects
-- **[aWARE – AI Collision Avoidance](https://github.com/cjkejw/2025_makeathon_T27)** 🏆  
+- **[ChatHera – AI HR Chatbot](https://github.com/cjkejw/2025_makeathon_T27)** 🏆  Hackathon 1st Runner-Up
+    RAG-based chatbot with Neo4j dual-graph DB, OCR, and self-updating FAQ system.  
+- **[aWARE – AI Collision Avoidance](https://github.com/cjkejw/2025_makeathon_T27)** 🏆  Makeathon Finalist
     YOLOv8 human detection, motion tracking, Arduino-based real-time alerts.  
 - **[School Picker](https://github.com/cjkejw/SC2006-School-Picker)** 🎓  
     React TypeScript frontend, ASP.NET backend, PostgreSQL database.  
