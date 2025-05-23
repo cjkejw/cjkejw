@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - **[IQ Booster](https://github.com/hacknroll24)** 🧠  
   Deployed. Play at [IQ Booster](https://spam2k24-main-nine.vercel.app/)  
-  All art belong to me. Ps: Go multiplayer mmode to unlock more picts!
+  All art belong to me. Ps: Go multiplayer mode to unlock more picts!
 
 
 
