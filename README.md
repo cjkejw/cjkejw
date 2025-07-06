@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjkejw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-📌 More at [GitHub](https://github.com/cjkejw)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=<your-username>.<your-repo>)
