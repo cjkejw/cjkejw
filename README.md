@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 Projects
+### Projects
 
 - **[ChatHera – AI HR Chatbot](https://github.com/cjkejw/Chat-Hera)** 🏆 *Hackathon 1st Runner-Up*  
   RAG-based chatbot with Neo4j dual-graph DB, OCR, and self-updating FAQ system.
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 
-### 🧰 Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 
 
-### 🔥 Github Stats
+### Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cjkejw)](https://git.io/streak-stats)
 
