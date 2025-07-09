@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - **[aWARE – AI Collision Avoidance](https://github.com/cjkejw/2025_makeathon_T27)** 🏆 *Makeathon Finalist*  
   YOLOv8 human detection, motion tracking, Arduino-based real-time alerts.
 
-- **[School Picker](https://github.com/cjkejw/SC2006-School-Picker)** 🎓  
+- **[School Picker](https://github.com/cjkejw/School-Picker)** 🎓  
   React TypeScript frontend, ASP.NET backend, PostgreSQL database.
 
 - **[FOMS – Food Ordering System](https://github.com/cjkejw/SC2002_FDAE_Grp6)** 🍔  
