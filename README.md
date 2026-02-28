@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 - **[aWARE – AI Collision Avoidance](https://github.com/cjkejw/2025_makeathon_T27)** 🏆 *Makeathon Finalist*  
   YOLOv8 human detection, motion tracking, Arduino-based real-time alerts.
 
+- **[Victorian Whispers](https://github.com/cjkejw/Vic_Whispers)** 🎓  
+  Full-stack deployed secure messaging app for password-protected, one-time-view letters with auto-deletion after read.
+
 - **[School Picker](https://github.com/cjkejw/School-Picker)** 🎓  
   React TypeScript frontend, ASP.NET backend, PostgreSQL database.
 
